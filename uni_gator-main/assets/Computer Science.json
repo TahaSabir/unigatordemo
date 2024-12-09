@@ -1,0 +1,122 @@
+[
+    {
+        "Rank":1,
+        "University":"National University of Sciences and Technology (NUST)",
+        "Location":"Islamabad",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 250,000 - 500,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 11 6878 ",
+        "contact.email":"admissions@nust.edu.pk ",
+        "contact.website":"nust.edu.pk"
+    },
+    {
+        "Rank":2,
+        "University":"FAST - National University of Computer and Emerging Sciences",
+        "Location":"Islamabad",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 250,000 - 450,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 1717 ",
+        "contact.email":"admissions@nu.edu.pk ",
+        "contact.website":"www.nu.edu.pk"
+    },
+    {
+        "Rank":3,
+        "University":"COMSATS University Islamabad",
+        "Location":"Islamabad",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 150,000 - 300,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 11 111 ",
+        "contact.email":"info@comsats.edu.pk ",
+        "contact.website":"comsats.edu.pk"
+    },
+    {
+        "Rank":4,
+        "University":"Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)",
+        "Location":"Topi, Swabi",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 550,000 - 650,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 94 9201230 ",
+        "contact.email":"admissions@giki.edu.pk ",
+        "contact.website":"www.giki.edu.pk"
+    },
+    {
+        "Rank":5,
+        "University":"University of Engineering and Technology (UET) Lahore",
+        "Location":"Lahore",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 200,000 - 400,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 42 99029417 ",
+        "contact.email":"admissions@uet.edu.pk ",
+        "contact.website":"uet.edu.pk"
+    },
+    {
+        "Rank":6,
+        "University":"University of Karachi",
+        "Location":"Karachi",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 100,000 - 200,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 21 99216000 ",
+        "contact.email":"info@uok.edu.pk ",
+        "contact.website":"uok.edu.pk"
+    },
+    {
+        "Rank":7,
+        "University":"Quaid-i-Azam University",
+        "Location":"Islamabad",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 100,000 - 200,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 9064 0000 ",
+        "contact.email":"info@qau.edu.pk ",
+        "contact.website":"qau.edu.pk"
+    },
+    {
+        "Rank":8,
+        "University":"Punjab University College of Information Technology (PUCIT)",
+        "Location":"Lahore",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 150,000 - 300,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 42 99231126 ",
+        "contact.email":"pucit@pu.edu.pk ",
+        "contact.website":"pucit.edu.pk"
+    },
+    {
+        "Rank":9,
+        "University":"Lahore University of Management Sciences (LUMS)",
+        "Location":"Lahore",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 1,000,000 - 1,500,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 42 111 11 5867 ",
+        "contact.email":"admissions@lums.edu.pk ",
+        "contact.website":"www.lums.edu.pk"
+    },
+    {
+        "Rank":10,
+        "University":"Bahria University",
+        "Location":"Islamabad",
+        "Specialization":"Computer Science",
+        "Fee Range":"PKR 300,000 - 500,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 11 7000 ",
+        "contact.email":"admissions@bahria.edu.pk ",
+        "contact.website":"bahria.edu.pk"
+    }
+]

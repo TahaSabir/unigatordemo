@@ -1,0 +1,122 @@
+[
+    {
+        "Rank":1,
+        "University":"Lahore University of Management Sciences (LUMS)",
+        "Location":"Lahore",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 1,000,000 - 1,500,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 42 111 11 5867 ",
+        "contact.email":"admissions@lums.edu.pk ",
+        "contact.website":"www.lums.edu.pk"
+    },
+    {
+        "Rank":2,
+        "University":"Institute of Business Administration (IBA)",
+        "Location":"Karachi",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 800,000 - 1,200,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 21 111 422 422 ",
+        "contact.email":"info@iba.edu.pk ",
+        "contact.website":"iba.edu.pk"
+    },
+    {
+        "Rank":3,
+        "University":"Suleman Dawood School of Business (SDSB)",
+        "Location":"Lahore",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 900,000 - 1,300,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 42 111 11 5867 ",
+        "contact.email":"sdspadmissions@lums.edu.pk ",
+        "contact.website":"www.lums.edu.pk"
+    },
+    {
+        "Rank":4,
+        "University":"University of the Punjab",
+        "Location":"Lahore",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 150,000 - 300,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 42 99231126 ",
+        "contact.email":"info@pu.edu.pk ",
+        "contact.website":"pu.edu.pk"
+    },
+    {
+        "Rank":5,
+        "University":"NUST Business School (NBS)",
+        "Location":"Islamabad",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 750,000 - 1,100,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 51 111 11 6878 ",
+        "contact.email":"admissions@nust.edu.pk ",
+        "contact.website":"nust.edu.pk"
+    },
+    {
+        "Rank":6,
+        "University":"SZABIST Karachi",
+        "Location":"Karachi",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 500,000 - 700,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 21 111 222 555 ",
+        "contact.email":"admissions@szabist.edu.pk ",
+        "contact.website":"www.szabist.edu.pk"
+    },
+    {
+        "Rank":7,
+        "University":"Institute of Management Sciences (IMSciences)",
+        "Location":"Peshawar",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 300,000 - 600,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 91 9217457 ",
+        "contact.email":"info@imsciences.edu.pk ",
+        "contact.website":"imsciences.edu.pk"
+    },
+    {
+        "Rank":8,
+        "University":"Greenwich University",
+        "Location":"Karachi",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 400,000 - 600,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 21 34317871 ",
+        "contact.email":"info@greenwich.edu.pk ",
+        "contact.website":"www.greenwich.edu.pk"
+    },
+    {
+        "Rank":9,
+        "University":"Bahria University",
+        "Location":"Islamabad",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 300,000 - 500,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 51 111 11 7000 ",
+        "contact.email":"admissions@bahria.edu.pk ",
+        "contact.website":"bahria.edu.pk"
+    },
+    {
+        "Rank":10,
+        "University":"Iqra University",
+        "Location":"Karachi",
+        "Specialization":"Business Administration",
+        "Fee Range":"PKR 200,000 - 400,000",
+        "Minimum SSC":"50%",
+        "Minimum HSC":"50%",
+        "contact.phone":"92 21 111 245 787 ",
+        "contact.email":"admissions@iqra.edu.pk ",
+        "contact.website":"www.iqra.edu.pk"
+    }
+]

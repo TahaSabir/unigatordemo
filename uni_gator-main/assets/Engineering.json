@@ -1,0 +1,122 @@
+[
+    {
+        "Rank":1,
+        "University":"National University of Sciences and Technology (NUST)",
+        "Location":"Islamabad",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 250,000 - 500,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 11 6878 ",
+        "contact.email":"admissions@nust.edu.pk ",
+        "contact.website":"nust.edu.pk"
+    },
+    {
+        "Rank":2,
+        "University":"University of Engineering and Technology (UET) Lahore",
+        "Location":"Lahore",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 200,000 - 400,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 42 99029417 ",
+        "contact.email":"admissions@uet.edu.pk ",
+        "contact.website":"uet.edu.pk"
+    },
+    {
+        "Rank":3,
+        "University":"Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)",
+        "Location":"Topi, Swabi",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 550,000 - 650,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 94 9201230 ",
+        "contact.email":"admissions@giki.edu.pk ",
+        "contact.website":"www.giki.edu.pk"
+    },
+    {
+        "Rank":4,
+        "University":"COMSATS University Islamabad",
+        "Location":"Islamabad",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 150,000 - 300,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 11 111 ",
+        "contact.email":"info@comsats.edu.pk ",
+        "contact.website":"comsats.edu.pk"
+    },
+    {
+        "Rank":5,
+        "University":"Pakistan Institute of Engineering and Applied Sciences (PIEAS)",
+        "Location":"Islamabad",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 100,000 - 200,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 11 9000 ",
+        "contact.email":"info@pieas.edu.pk ",
+        "contact.website":"www.pieas.edu.pk"
+    },
+    {
+        "Rank":6,
+        "University":"Mehran University of Engineering and Technology (MUET)",
+        "Location":"Jamshoro",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 100,000 - 200,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 22 2772250-73 ",
+        "contact.email":"registrar@admin.muet.edu.pk ",
+        "contact.website":"muet.edu.pk"
+    },
+    {
+        "Rank":7,
+        "University":"Air University",
+        "Location":"Islamabad",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 200,000 - 400,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 11 333 ",
+        "contact.email":"info@air.edu.pk ",
+        "contact.website":"www.air.edu.pk"
+    },
+    {
+        "Rank":8,
+        "University":"NED University of Engineering and Technology",
+        "Location":"Karachi",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 150,000 - 250,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 21 99261261-8 ",
+        "contact.email":"admissions@neduet.edu.pk ",
+        "contact.website":"neduet.edu.pk"
+    },
+    {
+        "Rank":9,
+        "University":"University of Engineering and Technology (UET) Taxila",
+        "Location":"Taxila",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 200,000 - 400,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 9040 1600 ",
+        "contact.email":"info@uet.edu.pk ",
+        "contact.website":"uettaxila.edu.pk"
+    },
+    {
+        "Rank":10,
+        "University":"FAST - National University of Computer and Emerging Sciences",
+        "Location":"Islamabad",
+        "Specialization":"Engineering",
+        "Fee Range":"PKR 250,000 - 450,000",
+        "Minimum SSC":"60%",
+        "Minimum HSC":"60%",
+        "contact.phone":"92 51 111 1717 ",
+        "contact.email":"admissions@nu.edu.pk ",
+        "contact.website":"www.nu.edu.pk"
+    }
+]

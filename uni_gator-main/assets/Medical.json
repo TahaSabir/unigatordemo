@@ -1,0 +1,122 @@
+[
+    {
+        "Rank":1,
+        "University":"Aga Khan University",
+        "Location":"Karachi",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 900,000 - 1,200,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 21 3493 0051",
+        "contact.email":"communications@aku.edu",
+        "contact.website":"aku.edu"
+    },
+    {
+        "Rank":2,
+        "University":"King Edward Medical University",
+        "Location":"Lahore",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 50,000 - 150,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":" 92 42 99211145",
+        "contact.email":"info@kemu.edu.pk ",
+        "contact.website":"kemu.edu.pk"
+    },
+    {
+        "Rank":3,
+        "University":"Allama Iqbal Medical College",
+        "Location":"Lahore",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 50,000 - 150,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 42 99231400",
+        "contact.email":"principal@aimc.edu.pk ",
+        "contact.website":"aimc.edu.pk"
+    },
+    {
+        "Rank":4,
+        "University":"Fatima Jinnah Medical University",
+        "Location":"Lahore",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 50,000 - 150,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 42 99203718 ",
+        "contact.email":"info@fjmu.edu.pk ",
+        "contact.website":"fjmu.edu.pk"
+    },
+    {
+        "Rank":5,
+        "University":"Liaquat University of Medical and Health Sciences",
+        "Location":"Jamshoro",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 200,000 - 400,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 22 9213305 ",
+        "contact.email":"info@lumhs.edu.pk ",
+        "contact.website":"lumhs.edu.pk"
+    },
+    {
+        "Rank":6,
+        "University":"Dow University of Health Sciences",
+        "Location":"Karachi",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 500,000 - 700,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 21 99215754 ",
+        "contact.email":"info@duhs.edu.pk ",
+        "contact.website":"duhs.edu.pk"
+    },
+    {
+        "Rank":7,
+        "University":"Khyber Medical University",
+        "Location":"Peshawar",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 300,000 - 600,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 91 9217703 ",
+        "contact.email":"info@kmu.edu.pk ",
+        "contact.website":"kmu.edu.pk"
+    },
+    {
+        "Rank":8,
+        "University":"Punjab Medical College",
+        "Location":"Faisalabad",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 50,000 - 150,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 41 9210080 ",
+        "contact.email":"principal@pmc.edu.pk ",
+        "contact.website":"pmc.edu.pk"
+    },
+    {
+        "Rank":9,
+        "University":"Rawalpindi Medical University",
+        "Location":"Rawalpindi",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 50,000 - 150,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 51 9290301 ",
+        "contact.email":"info@rmur.edu.pk ",
+        "contact.website":"rmur.edu.pk"
+    },
+    {
+        "Rank":10,
+        "University":"Ziauddin Medical University",
+        "Location":"Karachi",
+        "Programs":"Medical",
+        "Fee Structure":"PKR 500,000 - 700,000",
+        "Minimum SSC":"70%",
+        "Minimum HSC":"70%",
+        "contact.phone":"92 21 36648237 ",
+        "contact.email":"info@zu.edu.pk ",
+        "contact.website":"zu.edu.pk"
+    }
+]

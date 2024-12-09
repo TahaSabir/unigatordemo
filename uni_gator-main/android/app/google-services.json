@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822388238551",
+    "project_id": "uder-e31af",
+    "storage_bucket": "uder-e31af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822388238551:android:b7e33d20eb32947f556892",
+        "android_client_info": {
+          "package_name": "com.example.uni_gator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVAdfH6lskN7qx5jsRy2HVwmFGykqGuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "KU Girls Hostel",
+        "address": "KU, Circular Road, University Of Karachi, Karachi, Karachi City, Sindh",
+        "contactNo": "0305 5044769",
+        "rent": "69000 per sem",
+        "emailAddress": "vc@uok.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "Sir Anwar Pervez Boys Hostel IBA",
+        "address": "W4P6+956, KU Circular Rd, University Of Karachi, Karachi, Karachi City, Sindh 75270",
+        "contactNo": "0300 2558330",
+        "rent": "80000 per sem",
+        "emailAddress": "mohsin@iba.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "Girls Hostel, Unit 3, NED University, Karachi",
+        "address": "W4M5+VMG, Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",
+        "contactNo": "(021) 99261261",
+        "rent": "75000 per sem",
+        "emailAddress": "admin@ned.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "Aga Khan Uni Hostel",
+        "address": "Aga Khan University Hospital, Stadium Road, Karachi",
+        "contactNo": "021-34930051",
+        "rent": "85000 per sem",
+        "emailAddress": "tabassum.nadeem@aku.edu",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "Iqra University Hostel",
+        "address": "Shaheed-e-Millat Expressway, Phase-2, Defence View Housing Society, Karachi",
+        "contactNo": "021-111-264-264 (Ext: 9308)",
+        "rent": "70000 per sem",
+        "emailAddress": "administration@iqra.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "Liaquat National Uni Hostel",
+        "address": "Liaquat National Hospital and Medical College, Stadium Road, Karachi",
+        "contactNo": "021-34412078-899-931",
+        "rent": "72000 per sem",
+        "emailAddress": "lnmh.admin@lnh.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "Hamdard Uni Hostel",
+        "address": "Main Campus Hamdard University, Madinat al-Hikmah, Hakim Mohammad Said Road, Karachi",
+        "contactNo": "021-36440041-42",
+        "rent": "65000 per sem",
+        "emailAddress": "sfc@hamdard.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "IBA Capt. Haleem Ahmed Siddiqui Boys Hostel",
+        "address": "W4P6+956, KU Circular Rd, University Of Karachi, Karachi, Karachi City, Sindh 75270",
+        "contactNo": "0300 2558330",
+        "rent": "80000 per sem",
+        "emailAddress": "mohsin@iba.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "IBA GIRL HOSTEL",
+        "address": "W4P6+956, KU Circular Rd, University Of Karachi, Karachi, Karachi City, Sindh 75270",
+        "contactNo": "0300 2558330",
+        "rent": "80000 per sem",
+        "emailAddress": "mbutt@iba.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    },
+    {
+        "name": "NUST BOYS HOSTEL",
+        "address": "NUST KARACHI",
+        "contactNo": "021-36440041-42",
+        "rent": "11000 per month",
+        "emailAddress": "ddhostels@nust.edu.pk",
+        "images": [
+            "assets/images/aku_logo.png",
+            "assets/images/aku.jpeg",
+            "assets/images/akucampus.jpeg"
+        ]
+    }
+]
